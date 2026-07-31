@@ -3,7 +3,7 @@ package lab2;
 import java.util.Arrays;
 import java.util.Scanner;
 
-class Solution {
+class TwoSum {
     public static int[] twoSum(int[] nums, int target) {
         int i=0;
         int j = 0;
