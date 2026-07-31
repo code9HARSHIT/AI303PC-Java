@@ -8,7 +8,6 @@ class prog1{
         int y = s.nextInt();
         var v = x/y;
         System.out.println(v);
-
-
+        
     }
 }

@@ -5,7 +5,7 @@ public class Prog2 {
         int c = 876876;
         long d = 67858758;
 
-        float f = 876.73;
+        float f = (float) 876.73;
         double dd=87687.389;
         
     }
