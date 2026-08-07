@@ -20,9 +20,9 @@ public class JaggedArray {
             
         }
         
-        for (int i = 0; i < ja.length; i++) {
-            for (int j = 0; j < ja[i].length; j++) {
-                System.out.print(ja[i][j]+" ");
+        for (int[] rowArr : ja) {
+            for (int val : rowArr) {
+                System.out.print(val + " ");
             }
             System.out.println();
         }    
