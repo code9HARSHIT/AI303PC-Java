@@ -1,9 +1,8 @@
-package lab3;
-
 class PriDemoP {
+    public int x = 20;
     public static void main(String[] args) {
         
-    } int x = 20;
+    } 
     
     protected void show(){
         IO.println("This is a private class");
