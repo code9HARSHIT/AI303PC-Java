@@ -1,4 +1,6 @@
+
 import java.util.Scanner;
+
 class TextNormalizer {
     public static String normalize(String input) {
         if (input == null) {
