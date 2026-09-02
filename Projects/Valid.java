@@ -26,6 +26,7 @@ class Valid{
 
     }
     public void rollValid(String roll){
+        roll = roll.toUpperCase();
 
         if(roll.contains("AG1A") && roll.length() == 10){
             if(roll.charAt(6) == '6' && roll.charAt(7) == '6'){
