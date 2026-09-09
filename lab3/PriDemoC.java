@@ -1,3 +1,5 @@
+package B;
+import A.PriDemoP;
 public class PriDemoC extends PriDemoP {
     public static void main(String[] args) {
         PriDemoC pd = new PriDemoC();
