@@ -36,3 +36,20 @@ public class ChunkArray {
     }
 
 }
+
+/*
+	Sample output:
+	
+	Enter size of array:
+	4
+	Enter the elements of array:
+	1
+	2
+	3
+	4
+	Enter the chunk size:
+	2
+	[1, 2]
+	[3, 4]
+*/
+
