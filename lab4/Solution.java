@@ -19,3 +19,16 @@ public class Solution {
         }
     }
 }
+
+/*
+    Sample outputs:
+    1 --
+        10 5 
+        2
+    2 --
+        10 0
+        java.lang.ArithmeticException: / by zero
+    3 --
+        2 h 
+        java.util.InputMismatchException
+*/
