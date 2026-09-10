@@ -31,3 +31,18 @@ public class Solution {
         }
     }
 }
+
+/*
+    Sample outputs:
+        Input: 2 4
+        Output: 16
+        
+        Input: 0 0
+        Output: java.lang.Exception: n and p should not be zero.
+        
+        Input: -1 -2
+        Output: java.lang.Exception: n or p should not be negative.
+        
+        Input: 5 -1
+        Output: java.lang.Exception: n or p should not be negative.
+*/
