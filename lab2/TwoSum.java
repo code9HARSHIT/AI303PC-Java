@@ -37,3 +37,20 @@ class TwoSum {
         System.out.println(Arrays.toString(twoSum(nums, target)));
     }
 }
+
+/*
+    Sample output:
+    
+    Enter size of array:
+    4
+    Enter the elements of array:
+    2
+    7
+    11
+    15
+    Enter the target:
+    9
+    [0, 1]
+*/
+
+
