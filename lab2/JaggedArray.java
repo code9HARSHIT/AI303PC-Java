@@ -30,3 +30,26 @@ public class JaggedArray {
     }
     
 }
+
+/*
+    Sample output:
+
+    Enter the number of rows:
+    3
+    Enter the number of columns for row 1:
+    2
+    Enter the elements for row 1:
+    1 2
+    Enter the number of columns for row 2:
+    4
+    Enter the elements for row 2:
+    3 4 5 6
+    Enter the number of columns for row 3:
+    1
+    Enter the elements for row 3:
+    7
+    
+    1 2 
+    3 4 5 6 
+    7
+*/
