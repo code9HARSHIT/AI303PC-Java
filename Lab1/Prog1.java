@@ -11,3 +11,13 @@ class prog1{
         
     }
 }
+/*
+    Sample output
+    Enter a number 13
+    Enter a number 4
+    3.250000
+*/
+
+
+
+
