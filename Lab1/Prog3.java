@@ -6,8 +6,14 @@ public class Prog3 {
     }
     public static void main(String...args){
         System.out.println(sx);
-        //System.out.println(x);
+        inLife();
 
     }
     
 }
+
+/*
+    Output:
+    20
+    40 20
+*/
